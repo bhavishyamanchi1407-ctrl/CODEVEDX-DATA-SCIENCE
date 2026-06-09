@@ -1,16 +1,23 @@
 # Iris Flower Classification
 
 ## Objective
-To classify iris flowers into different species using Machine Learning.
+Classify Iris flowers into Setosa, Versicolor, and Virginica using Machine Learning.
+
+## Dataset
+Iris Dataset
 
 ## Tools Used
 - Python
 - Pandas
-- Matplotlib
-- Scikit-Learn
+- NumPy
+- Scikit-learn
+- Google Colab
 
 ## Algorithm
-Decision Tree Classifier
+K-Nearest Neighbors (KNN)
 
 ## Result
-The model achieved 100% accuracy on the test dataset.
+Model Accuracy: 100%
+
+## Author
+Bhavishya Manchi
