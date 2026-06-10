@@ -1,23 +1,40 @@
-# Iris Flower Classification
+# CODEVEDX DATA SCIENCE INTERNSHIP
 
-## Objective
-Classify Iris flowers into Setosa, Versicolor, and Virginica using Machine Learning.
+## Project 1: Iris Flower Classification
 
-## Dataset
-Iris Dataset
+### Objective
+Classify iris flowers into different species using Machine Learning.
 
-## Tools Used
+###Tools Used
 - Python
 - Pandas
-- NumPy
 - Scikit-learn
 - Google Colab
 
-## Algorithm
-K-Nearest Neighbors (KNN)
+### Accuracy
+100%
 
-## Result
-Model Accuracy: 100%
+---
+
+## Project 2: Titanic Survival Prediction
+
+### Objective
+Predict whether a passenger survived the Titanic disaster using Machine Learning.
+
+### Tools Used
+- Python
+- Pandas
+- Scikit-learn
+- Matplotlib
+- Google Colab
+
+### Model
+Random Forest Classifier
+
+### Accuracy
+82.12%
+
+---
 
 ## Author
 Bhavishya Manchi
